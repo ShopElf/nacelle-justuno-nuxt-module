@@ -21,4 +21,4 @@ Next go to your Justuno dashboard and find the page for "Embed Code". In the emb
 
 Back in `nuxt.config.js` add `justuno: '<Justuno Account ID>'` to the `nacelle` config object.
 
-Justuno is now connected to your Nacelle project and will being displaying any banners or popups you have configured.
+Justuno is now connected to your Nacelle project and will begin displaying any banners or popups you have configured.

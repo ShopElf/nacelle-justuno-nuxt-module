@@ -1,6 +1,6 @@
 {
   "name": "@nacelle/nacelle-justuno-nuxt-module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Integrates Justuno into your Nacelle Nuxt project",
   "license": "MIT",
   "contributors": [

@@ -1,6 +1,6 @@
 {
   "name": "@nacelle/nacelle-justuno-nuxt-module",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Integrates Justuno into your Nacelle Nuxt project",
   "license": "MIT",
   "contributors": [
@@ -29,7 +29,7 @@
     "eslint": "^7.5.0",
     "eslint-plugin-vue": "^6.2.2",
     "husky": "^4.2.5",
-    "jest": "^26.4.2",
+    "jest": "^26.6.3",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
     "vue": "^2.6.11",
